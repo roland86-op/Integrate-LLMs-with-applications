@@ -1,5 +1,9 @@
 # Integrate-LLMs-with-applications
 
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff">
+</div>
 Dari prompt lab yang telah dicoba kita akan memanggil kode tersebut menggunakan api IBMcloud.
 
 ## Requirements
